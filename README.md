@@ -1,2 +1,3 @@
 # hello-world
-hello-world repository
+Hello! My name is Alberta and I like to design things. 
+Nice to meet you.
